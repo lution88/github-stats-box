@@ -17,6 +17,6 @@ jobs:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }} # Do not edit, defined in secrets
 
                   # Edit the following environment variables
-                  GIST_ID: 10238cd44587ff52e04f6181ff5486ba
+                  GIST_ID: 7c7137edb75c1305520eaa4754a2b4ae
                   ALL_COMMITS: true
                   K_FORMAT: true
